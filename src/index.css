@@ -12,3 +12,22 @@ code {
     monospace;
 }
 
+.herogrid {
+  padding: 10px;
+}
+
+.profilePic {
+  border-radius: 50%;
+}
+
+.cardContainer {
+  padding: 10px;
+}
+
+ i.fas,i.fab {
+   color: rgb(48, 48, 48)
+ }
+
+ .contactMe {
+  margin-bottom: 10px;
+ }
