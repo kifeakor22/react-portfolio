@@ -44,20 +44,20 @@
         "id": 5,
         "title": "What Can I Cook",
         "repo":
-          "https://github.com/kifeakor22/new-project-build",
+          "https://kifeakor22.github.io/food-court/",
           "image":"./assets/foodApp.PNG",
           "alt": "Food App",
-          "deployed": "https://kifeakor22.github.io/food-court/",
+          "deployed": "https://github.com/kifeakor22/new-project-build ",
           "description": "Suggest what food to make with instructions based on the ingredient entered by the user"
       },
       {
         "id": 6,
         "title": "Weather Dashboard App",
         "repo":
-          "https://github.com/kifeakor22/weather-dashboard",
+          "https://kifeakor22.github.io/weather-app/",
           "image":"./assets/weather-app.PNG",
           "alt": "weather dashboard",
-          "deployed": "https://kifeakor22.github.io/weather-app/",
+          "deployed": "https://github.com/kifeakor22/weather-dashboard",
           "description": "A 5 days weather forecast App that uses an API from openWeather"
        
       }

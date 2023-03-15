@@ -17,7 +17,7 @@ const Home = () => {
                         </div>
                 <div class="col-lg-8 col-md-8 col-sm-12">
                     <div class="heading">
-                        <h1 class="typing-text">Hello my name {name}</h1>
+                        <h1 class="typing-text">Hello my name is {name}</h1>
                     </div>
                     <div class="subHeading">
                         <h2>A UX/UI Frontend developer</h2>

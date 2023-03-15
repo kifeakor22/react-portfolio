@@ -15,10 +15,11 @@ const ProjectCard = (props) => {
                 <a href={props.deployed} className="btn btn-outline-secondary">Visit Github Repo<i className="fab fa-github"></i></a>
               </div>
             </div>
-          </div>
+          </div>      
     </div>
     
   )
+
 }
 
 export default ProjectCard;
