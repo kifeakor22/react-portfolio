@@ -16,7 +16,7 @@ the contact page includes links to my socail media that allows visitors to get i
 
 I hope you enjoy exploring my portfolio. If you have any questions or would like to work with me, please don't hesitate to reach out through the contact form or any of my social media profiles. Thank you for visiting!
 
-This site is deployed using [GitHub Pages](https://pages.github.com/) at https://kifeakor22.github.io/react-portfolio/
+This site is deployed using [Vercel](#) at https://react-portfolio-753gt5e5x-kifeakor22.vercel.app/
 
 
 ![project](./src/components/assets/portfolio.PNG)
